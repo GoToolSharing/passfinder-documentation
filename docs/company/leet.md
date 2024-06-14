@@ -1,4 +1,6 @@
-# leet
+# --leet
+
+The `--leet` flag can be used to transform letters into numbers or symbols.
 
 ```bash
 > passfinder company -n passfinder --leet

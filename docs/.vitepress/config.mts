@@ -32,7 +32,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Getting Started',
-        collapsed: true,
+        collapsed: false,
 	items: [
           { text: 'Home', link: '/getting-started/home' },
           { text: 'Installation', link: '/getting-started/installation' },
@@ -41,7 +41,7 @@ export default defineConfig({
       },
       {
         text: 'Company',
-        collapsed: true,
+        collapsed: false,
 	items: [
           { text: '--start-caps', link: '/company/start-caps' },
           { text: '--leet', link: '/company/leet' },
@@ -51,13 +51,13 @@ export default defineConfig({
           { text: '--year-separators', link: '/company/year-separators' },
           { text: '--mixed-case', link: '/company/mixed-case' },
           { text: '--year', link: '/company/year' },
-          { text: '--all', link: '/company/all' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/GoToolSharing/passfinder' }
+      { icon: 'github', link: 'https://github.com/GoToolSharing/passfinder' },
+      { icon: 'twitter', link: 'https://twitter.com/QU35T_TV' }
     ]
   }
 })
