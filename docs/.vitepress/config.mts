@@ -35,6 +35,21 @@ export default defineConfig({
         collapsed: true,
 	items: [
           { text: 'Home', link: '/getting-started/home' },
+          { text: 'Company', link: '/getting-started/company' },
+        ]
+      },
+      {
+        text: 'Company',
+        collapsed: true,
+	items: [
+          { text: '--start-caps', link: '/company/start-caps' },
+          { text: '--leet', link: '/company/leet' },
+          { text: '--mask', link: '/company/mask' },
+          { text: '--short-year', link: '/company/short-year' },
+          { text: '--end-special', link: '/company/end-special' },
+          { text: '--year-separators', link: '/company/year-separators' },
+          { text: '--mixed-case', link: '/company/mixed-case' },
+          { text: '--year', link: '/company/year' },
         ]
       }
     ],

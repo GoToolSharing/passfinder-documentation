@@ -34,4 +34,4 @@ title: 'Passfinder: Generate custom password wordlists !'
   </div>
 </div>
 
-Passfinder is
+Passfinder is a command-line interface (CLI) tool developed in Golang, designed to generate probable password wordlists based on a variety of customizable options. This tool is especially useful for security professionals, penetration testers, and Red Team members. By providing precise and relevant password lists tailored to specific criteria such as a company name, the current year, or the city, passfinder enhances the efficiency of security testing and attack simulations. Whether for security audits, red teaming exercises, or assessing system robustness, passfinder proves to be a powerful and indispensable ally in anticipating and mitigating security vulnerabilities.
