@@ -35,6 +35,7 @@ export default defineConfig({
         collapsed: true,
 	items: [
           { text: 'Home', link: '/getting-started/home' },
+          { text: 'Installation', link: '/getting-started/installation' },
           { text: 'Company', link: '/getting-started/company' },
         ]
       },
@@ -50,6 +51,7 @@ export default defineConfig({
           { text: '--year-separators', link: '/company/year-separators' },
           { text: '--mixed-case', link: '/company/mixed-case' },
           { text: '--year', link: '/company/year' },
+          { text: '--all', link: '/company/all' },
         ]
       }
     ],
