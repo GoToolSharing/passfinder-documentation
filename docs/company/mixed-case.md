@@ -5,6 +5,7 @@ The `--mixed-case` flag allows you to mix the case of a password, alternating be
 ```bash
 > passfinder company -n passfinder --mixed-case
 
+[...]
 PAssFINDER
 PAsSfinder
 PAsSfindeR
