@@ -48,7 +48,6 @@ export default defineConfig({
           { text: 'mask', link: '/company/mask' },
           { text: 'short-year', link: '/company/short-year' },
           { text: 'end-special', link: '/company/end-special' },
-          { text: 'year-separators', link: '/company/year-separators' },
           { text: 'mixed-case', link: '/company/mixed-case' },
           { text: 'year', link: '/company/year' },
           { text: 'numbers', link: '/company/numbers' },
