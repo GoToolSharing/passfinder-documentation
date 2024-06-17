@@ -1,4 +1,4 @@
-# --start-caps
+# Start-caps
 
 The `--start-caps` flag adds a capital letter to the beginning of the password.
 

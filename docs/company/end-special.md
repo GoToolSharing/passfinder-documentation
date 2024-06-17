@@ -1,4 +1,4 @@
-# --end-special
+# End-special
 
 The `--end-special` flag adds a special charset character to the end of the password.
 

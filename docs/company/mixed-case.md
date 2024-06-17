@@ -1,4 +1,4 @@
-# --mixed-case
+# Mixed-case
 
 The `--mixed-case` flag allows you to mix the case of a password, alternating between upper and lower case.
 

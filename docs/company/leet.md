@@ -1,4 +1,4 @@
-# --leet
+# Leet
 
 The `--leet` flag can be used to transform letters into numbers or symbols.
 

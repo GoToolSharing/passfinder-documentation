@@ -1,4 +1,4 @@
-# --mask
+# Mask
 
 The `--mask` flag is used to add a mask to a password. The mask works like the john tool with :
 

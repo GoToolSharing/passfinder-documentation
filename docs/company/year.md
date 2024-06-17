@@ -1,4 +1,4 @@
-# --year
+# Year
 
 The `--year` flag is used to add the current year to the end of a password.
 
