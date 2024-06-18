@@ -43,6 +43,7 @@ export default defineConfig({
         text: 'Company',
         collapsed: false,
 	items: [
+          { text: 'all', link: '/company/all' },
           { text: 'start-caps', link: '/company/start-caps' },
           { text: 'leet', link: '/company/leet' },
           { text: 'mask', link: '/company/mask' },
@@ -51,6 +52,7 @@ export default defineConfig({
           { text: 'mixed-case', link: '/company/mixed-case' },
           { text: 'year', link: '/company/year' },
           { text: 'numbers', link: '/company/numbers' },
+          { text: 'postal', link: '/company/postal' },
         ]
       }
     ],

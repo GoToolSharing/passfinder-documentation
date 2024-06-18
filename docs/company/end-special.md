@@ -1,6 +1,6 @@
 # End-special
 
-The `--end-special` flag adds a special charset character to the end of the password.
+The `--end-special` and `-s` flag adds a special charset character to the end of the password.
 
 ```bash
 > passfinder company -n passfinder --end-special

@@ -1,9 +1,21 @@
 # Numbers
 
-The `--numbers` flag adds numbers from 0 to 20 (default) 
+The `--numbers` flag adds numbers to the company name. It waits for a maximum value and then iterates on it.
 
 ```bash
-> passfinder company -n passfinder --numbers
+> passfinder company -n passfinder --numbers 5
+
+passfinder
+passfinder0
+passfinder1
+passfinder2
+passfinder3
+passfinder4
+passfinder5
+```
+
+```bash
+> passfinder company -n passfinder --numbers 10
 
 passfinder
 passfinder0
@@ -17,28 +29,4 @@ passfinder7
 passfinder8
 passfinder9
 passfinder10
-passfinder11
-passfinder12
-passfinder13
-passfinder14
-passfinder15
-passfinder16
-passfinder17
-passfinder18
-passfinder19
-passfinder20
-```
-
-The `--numbers-range` flag is used to adjust the range size.
-
-```bash
-> passfinder company -n passfinder --numbers --numbers-range 5
-
-passfinder
-passfinder0
-passfinder1
-passfinder2
-passfinder3
-passfinder4
-passfinder5
 ```
