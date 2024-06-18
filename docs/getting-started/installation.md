@@ -5,7 +5,7 @@
 The latest stable (release) version can be downloaded using the following command :
 
 ```bash
-go install https://github.com/GoToolSharing/passfinder@v1.1.0
+go install github.com/GoToolSharing/passfinder@v1.1.0
 ```
 
 ## Dev
